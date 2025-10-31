@@ -1,3 +1,6 @@
+body {
+    background-color: red !important;
+}
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Tajawal:wght@400;700&display=swap');
 
 body {
@@ -574,3 +577,4 @@ font-size: 0.9em;
 transform: translateY(-5px);
 box-shadow: 0 0 20px rgba(169, 138, 255, 0.3);
 }
+
